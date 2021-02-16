@@ -1,0 +1,30 @@
+body {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px 0px 40px 0px;
+}
+
+.table {
+    display: flex;
+    justify-content: space-between;
+}
+
+.calc {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.dec {
+    display: block;
+    width: 100px;
+    height: 60px;
+    background-color: blue;
+}
+
+.inc {
+    display: block;
+    width: 100px;
+    height: 60px;
+    background-color: red;
+}
